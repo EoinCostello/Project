@@ -1,0 +1,105 @@
+body{background-color:#e6e6fa; 
+	color: #42af47;
+	font-family: Arial;
+	margin-left: 20%;
+	margin-right:20%;
+}
+
+	
+	h1 {background-color:#e6e6fa; 
+	color: #191970;
+	line-height:100%;
+	font-family: serif;
+	text-shadow: 6px 3px 5px #ccaaaa;
+	letter-spacing: .3em;
+	font-size: 200%;
+	text-align: center;
+}
+	
+	h2 {background-color:#e6e6fa; 
+	color: #191970;
+	font-family: georgia, serif;
+	text-align: center;
+	font-size:120%;
+	letter-spacing: .1em;
+	font-family: 'Tangerine', serif;
+	font-size: 2em;
+	word-spacing: .2em;
+	text-align: center;
+}
+h3 {background-color:#e6e6fa; 
+	color: #0000FF;
+	font-family: Times New Roman, serif;
+	text-align: center;
+	font-size:100%;
+	letter-spacing: .1em;
+	word-spacing: .2em;
+}
+	
+h4 {background-color:#e6e6fa; 
+	color: #ff0000;
+	font-family: Times New Roman, serif;
+	text-align: center;
+	font-size:100%;
+	letter-spacing: .1em;
+	word-spacing: .6em;
+	}
+	
+h5 {background-color:#e6e6fa; 
+	color: #008000;
+	font-family: Times New Roman, serif;
+	text-align: center;
+	font-size:100%;
+	letter-spacing: .1em;
+	word-spacing: .2em;
+}
+
+	h6 {background-color:#e6e6fa; 
+	color: #191970;
+	font-family: Times New Roman, serif;
+	text-align: center;
+	font-size:100%;
+	letter-spacing: .1em;
+	word-spacing: .1em;
+	text-align: center;
+}
+	
+    H7{background-color:#e6e6fa; 
+	color: #191970;
+	font-family: Times New Roman, serif;
+	font-weight: 900;
+	text-align: center;
+	font-size:100%;
+	letter-spacing: .1em;
+	word-spacing: .2em;
+	footer {background-color:#191970; 
+	color: #e6e6fa;
+	text-align:center;
+}
+	.feature {color: #99460e}
+	
+	main p { font-size: 150%;
+		line-height: 1.2;
+		text-indent: 3em
+		font-size: .90em;
+	}
+p.normal {
+  font-weight: normal;
+}
+
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+
+<p class="normal">This is a paragraph.</p>
+<p class="light">This is a paragraph.</p>
+<p class="thick">This is a paragraph.</p>
+<p class="thicker">This is a paragraph.</p>
