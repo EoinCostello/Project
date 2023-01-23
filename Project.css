@@ -82,6 +82,7 @@ h5 {background-color:#e6e6fa;
 		text-indent: 3em
 		font-size: .90em;
 	}
+<style>
 p.normal {
   font-weight: normal;
 }
@@ -97,8 +98,4 @@ p.thick {
 p.thicker {
   font-weight: 900;
 }
-
-<p class="normal">This is a paragraph.</p>
-<p class="light">This is a paragraph.</p>
-<p class="thick">This is a paragraph.</p>
-<p class="thicker">This is a paragraph.</p>
+</style>
